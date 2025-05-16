@@ -12,4 +12,5 @@ This project uses Turtlebot2, Kinect camera and YDlidar to do tasks at home
 - Mr.Pichanat Sittipunyota
 - Ms.Natwalee Narhkthong
   
-[Technical Poster](Rule\Poster-YOLOv9.pdf)
+[Technical Poster](Rules\Poster-YOLOv9.pdf)
+[Rule](Rules\Rule 2024 RoboCup@Home Education.pdf)
