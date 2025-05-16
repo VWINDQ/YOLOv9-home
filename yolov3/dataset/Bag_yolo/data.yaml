@@ -1,0 +1,13 @@
+train: /home/user/catkin_ws/src/yolov3/train
+val: /home/user/catkin_ws/src/yolov3/valid
+test: /home/user/catkin_ws/src/yolov3/test
+
+nc: 1
+names: ['bag']
+
+roboflow:
+  workspace: pichanat
+  project: bag-seyan
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/pichanat/bag-seyan/1

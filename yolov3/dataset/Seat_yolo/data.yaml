@@ -1,0 +1,13 @@
+train: /home/user/catkin_ws/src/yolov3/dataset/Seat_yolo/train
+val: /home/user/catkin_ws/src/yolov3/dataset/Seat_yolo/valid
+test: /home/user/catkin_ws/src/yolov3/dataset/Seat_yolo/test
+
+nc: 1
+names: ['emtpy']
+
+roboflow:
+  workspace: pichanat
+  project: seat-x8kmj
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/pichanat/seat-x8kmj/1

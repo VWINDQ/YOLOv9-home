@@ -1,0 +1,13 @@
+train: /home/user/catkin_ws/src/yolov3/dataset/Seat2_yolo/train
+val: /home/user/catkin_ws/src/yolov3/dataset/Seat2_yolo/valid
+test: /home/user/catkin_ws/src/yolov3/dataset/Seat2_yolo/test
+
+nc: 1
+names: ['empty']
+
+roboflow:
+  workspace: pichanat
+  project: seat-vo3ax
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/pichanat/seat-vo3ax/dataset/1

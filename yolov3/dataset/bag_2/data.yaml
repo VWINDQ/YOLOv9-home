@@ -1,0 +1,13 @@
+train: /home/user/catkin_ws/src/yolov3/dataset/bag_2/train
+val: /home/user/catkin_ws/src/yolov3/dataset/bag_2/valid
+test: /home/user/catkin_ws/src/yolov3/dataset/bag_2/test
+
+nc: 1
+names: ['bag']
+
+roboflow:
+  workspace: pichanat
+  project: bag2-snw1j
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/pichanat/bag2-snw1j/1
