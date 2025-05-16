@@ -1,2 +1,15 @@
-# YOLOv9-@home
-YOLOv9's Team Robocup Malaysia open 2024 @Home Edu
+# YOLOv9-@home 
+YOLOv9's Team Robocup Malaysia open 2024 @Home Education
+This project uses Turtlebot2, Kinect camera and YDlidar to do tasks at home
+## Feature
+- Detects and Follow people
+- Announces detected person's gender and shirt color
+- Object Detection
+- Supports Thai and English voice output using gTTS
+## Member
+- Mr.Phattaraphon Suttiphan
+- Mr.Chayakorn Winothai
+- Mr.Pichanat Sittipunyota
+- Ms.Natwalee Narhkthong
+  
+[Technical Poster](file:///E:/Robocup_Malaysia/TDP_YOLOv9.pdf)
