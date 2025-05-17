@@ -15,13 +15,41 @@ This project uses Turtlebot2, ROS(Robot Operating System),Kinect camera and YDli
 - Ms.Natwalee Narhkthong
 ## Technologies Used
 - **Robot Operation System (ROS):noetic**
+- **Python**
 - **Turtlebot2**
 - **Kinect camera**
-- **YDlidar**
-- **YOLOv5**
+- **YDlidar X2**
+- **OpenCV, YOLOv5 (Image Processing)**
 - **gTTS (Google Text-To-Speech)**
+- **RViz,Gazebo (For Simulation)**
+- **Robotic Arm (MG996R Servo)**
+- **Arduino IDE (For Robotic arm)**
   
 [Technical Poster](Rules\Poster-YOLOv9.pdf)
 
 
 [Rule](Rules\Rule2024RoboCup@HomeEducation.pdf)
+
+---
+
+## 🚀 Installation and Usage Guide
+
+### ✅ Prerequisites
+- Ubuntu 20.04 LTS
+- ROS Noetic
+- Python 3
+- Arduino IDE (for controlling the robotic arm)
+- YDLidar SDK (compatible with YDLidar X2)
+- Serial port access for devices connected via USB
+
+---
+
+### 🛠 System Installation Steps
+
+#### 1. Install ROS Noetic
+```bash
+sudo apt update
+sudo apt install ros-noetic-desktop-full
+
+#### 2. Create catkin Workspace
+
