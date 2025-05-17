@@ -1,7 +1,7 @@
 # YOLOv9-@Home Education 
-YOLOv9's Team Robocup Malaysia open 2024 @Home Education
+YOLOv9's Team | Robocup Malaysia open 2024 @Home Education
 
-This project uses Turtlebot2, ROS(Robot Operating System),Kinect camera and YDlidar to do tasks at home
+This project is developed by YOLOv9's Team Robocup Malaysia for the 2024 @Home Education competition, aiming to use Turtlebot2 robots equipped with ROS, Kinect camera and YDLidar to perform various tasks within the home.
 ## Feature
 - Detects and Follow people
 - Announces detected person's gender and shirt color
