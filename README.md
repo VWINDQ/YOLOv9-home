@@ -13,6 +13,13 @@ This project uses Turtlebot2, ROS(Robot Operating System),Kinect camera and YDli
 - Mr.Chayakorn Winothai
 - Mr.Pichanat Sittipunyota
 - Ms.Natwalee Narhkthong
+## Technologies Used
+- **Robot Operation System (ROS):noetic**
+- **Turtlebot2**
+- **Kinect camera**
+- **YDlidar**
+- **YOLOv5**
+- **gTTS (Google Text-To-Speech)**
   
 [Technical Poster](Rules\Poster-YOLOv9.pdf)
 
